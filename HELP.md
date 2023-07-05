@@ -28,3 +28,4 @@ These additional references should also help you:
 ## 프로젝트 매뉴얼
 - 제목 : 구글 OAuth2 연동 개발
 - 위치 : https://loosie.tistory.com/300
+- 
